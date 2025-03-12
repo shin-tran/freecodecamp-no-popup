@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Removes the donate popup on FreeCodeCamp
 // @author       ngocshintran
-// @match        www.freecodecamp.org/*
+// @match        https://www.freecodecamp.org/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=freecodecamp.org
 // @grant        GM_addStyle
 // @license MIT
