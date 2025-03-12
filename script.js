@@ -8,6 +8,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=freecodecamp.org
 // @grant        GM_addStyle
 // @supportURL   https://github.com/shin-tran/freecodecamp-no-popup/issues
+// @downloadURL https://raw.githubusercontent.com/shin-tran/freecodecamp-no-popup/refs/heads/main/script.js
+// @updateURL https://raw.githubusercontent.com/shin-tran/freecodecamp-no-popup/refs/heads/main/script.js
 // @license MIT
 // ==/UserScript==
 
