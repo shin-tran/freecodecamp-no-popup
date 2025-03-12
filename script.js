@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Freecodecamp No Popup
 // @namespace    https://github.com/shin-tran
-// @version      0.1
+// @version      0.2
 // @description  Removes the donate popup on FreeCodeCamp
 // @author       ngocshintran
 // @match        https://www.freecodecamp.org/*
